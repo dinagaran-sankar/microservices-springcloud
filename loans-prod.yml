@@ -1,0 +1,10 @@
+build:
+  version: "4.2"
+loandetails:
+  message: "Loan serviecs using PROD machine"
+  contactDetails:
+    name: "loan_PRODDina"
+    email: "testloanPROD@gmail.com"
+  onCallSupport:
+    - (91) 6677 0000
+    - (974) 1122 89997

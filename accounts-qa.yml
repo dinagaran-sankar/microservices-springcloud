@@ -1,0 +1,10 @@
+build:
+  version: "3.2"
+accountsdetails:
+  message: "New Rest API is Created to validate QA Configuration Properties"
+  contactDetails:
+    name: "dina_QA"
+    email: "testQA@gmail.com"
+  onCallSupport:
+    - (91) 4444 - 12345
+    - (971) 5555 - 88668

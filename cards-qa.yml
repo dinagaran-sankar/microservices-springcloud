@@ -1,0 +1,10 @@
+build:
+  version: "2.1"
+cardsdetails:
+  message: "Cards Services Using QA Machine"
+  contactDetails:
+    name: "cards-QAdina"
+    email: "testcardsQA@gmail.com"
+  onCallSupport:
+    - (91) 2222 000000
+    - (971) 3333 11111

@@ -1,0 +1,10 @@
+build:
+  version: "2.2"
+cardsdetails:
+  message: "Cards Services Using PROD Machine"
+  contactDetails:
+    name: "cards-prod dina"
+    email: "testcardsprod@gmail.com"
+  onCallSupport:
+    - (91) 232 000000
+    - (971) 3223 11111

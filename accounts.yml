@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+accountsdetails:
+  message: "New Rest API is Created to validate Local Configuration Properties"
+  contactDetails:
+    name: "dina"
+    email: "test@gmail.com"
+  onCallSupport:
+    - (91) 000 - 12345
+    - (971) 111 - 88668
+

@@ -1,0 +1,10 @@
+build:
+  version: "3.1"
+accountsdetails:
+  message: "New Rest API is Created to validate Prod Configuration Properties"
+  contactDetails:
+    name: "dina_prod"
+    email: "testprod@gmail.com"
+  onCallSupport:
+    - (91) 111 - 12345
+    - (971) 333 - 88668

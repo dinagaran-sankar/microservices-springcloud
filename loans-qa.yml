@@ -1,0 +1,10 @@
+build:
+  version: "4.1"
+loandetails:
+  message: "Loan serviecs using QA machine"
+  contactDetails:
+    name: "loan_QADina"
+    email: "testloanQA@gmail.com"
+  onCallSupport:
+    - (91) 7655 0000
+    - (974) 1445 89997

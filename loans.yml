@@ -1,0 +1,10 @@
+build:
+    version: "4.0"
+loandetails:
+    message: "Loan serviecs using local machine"
+    contactDetails:
+      name: "loan_locDina"
+      email: "testloan@gmail.com"
+    onCallSupport:
+      - (91) 7777 0000
+      - (974) 097 89997

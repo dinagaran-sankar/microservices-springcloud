@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cardsdetails:
+  message: "Cards Services Using Local Machine"
+  contactDetails:
+    name: "cards-dina"
+    email: "testcards@gmail.com"
+  onCallSupport:
+    - (91) 999 000000
+    - (971) 888 11111
