@@ -1,7 +1,7 @@
 build:
   version: "4.2"
 loandetails:
-  message: "Loan serviecs using PROD machine"
+  message: "Loan serviecs using production machine"
   contactDetails:
     name: "loan_PRODDina"
     email: "testloanPROD@gmail.com"
