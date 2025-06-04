@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accountsdetails:
-  message: "New Rest API is Created to validate local Configuration Properties"
+  message: "New Rest API is Created to validate docker Configuration Properties"
   contactDetails:
     name: "dina"
     email: "{cipher}47fab450fa212c74617d7e4c417cd3d12806d9c503358e2c04ef7f1ee326f02a"
