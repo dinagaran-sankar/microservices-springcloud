@@ -4,7 +4,7 @@ server:
 eureka:
   instance:
     hostname: localhost
-  cilent:
+  client:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
