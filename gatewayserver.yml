@@ -4,7 +4,7 @@ server:
 eureka:
   instance:
     preferIpAddress: true
-  cilent:
+  client:
     fetchRegistry: true
     registerWithEureka: true
     serviceUrl:
